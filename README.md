@@ -12,7 +12,6 @@ Quick guide to run this project.
 
 ```bash
 git clone <your-repo-url>
-cd rag-101
 ```
 
 ## 2) Create and activate a virtual environment
@@ -55,17 +54,11 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ## 5) Run the project
 
-Use the project entry command (example):
-
-```bash
-python main.py
-```
-
-If your entry file is different, run that file instead.
+There are a total of 5 jupyter-notebooks, run each individually in the sequence of there naming.
 
 ## Approach Diagram
 
-There is a picture in `docs` to understand the approach. Example reference:
+There is a picture in `notes` to understand the approach. Example reference:
 
 ```text
 notes/rag_notes.png
